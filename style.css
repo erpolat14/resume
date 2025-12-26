@@ -1,0 +1,9 @@
+.profile {
+   background-color: #4a90e2; 
+  width: 180px;        /* rasm eni */
+  height: auto;        /* nisbat buzilmasin */
+  border-radius: 50%;  /* dumaloq rasm */
+  display: block;
+  margin: 15px auto;   /* markazga */
+  border: 4px solid #1e90ff;
+}
